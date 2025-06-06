@@ -71,5 +71,5 @@ This project was created by **Bekmurod** **G'ofurov**.
 
 <div align="center">
   <p>Thanks for checking out my project! If you have any questions or would like to collaborate, feel free to reach out. 😊</p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=2C68F6" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=BekmurodGofurov&color=2C68F6" alt="Profile views" />
 </div>
