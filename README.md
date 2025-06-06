@@ -6,10 +6,6 @@
 
 ## 🍽️ FoodLover Project
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFkaDR2OGp4c214c2N3bWh6NGw5ZGV3cnB5NzF4aXZiMWp3c2x2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKHWqXw2VbJgK8NQA/giphy.gif" width="200" alt="Cooking GIF">
-</div>
-
 This is the **FoodLover** project, created as part of the **Sammi.ac JavaScript course**. This project helps you manage food-related information. It uses **JSON-Server** to simulate a simple database and **Webpack** for managing the code.
 
 ---
